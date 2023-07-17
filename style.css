@@ -152,74 +152,74 @@ ul.header-links {
 /* SECTION 3 */
 
 .section-three {
-    background-color: var(--GREY-COLOR);
-    padding: 0 20%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  background-color: var(--GREY-COLOR);
+  padding: 0 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .section-three .quote {
-    font-size: 36px;
-    font-weight: 300;
-    font-style: italic;
-    color: var(--DARK-COLOR);
+  font-size: 36px;
+  font-weight: 300;
+  font-style: italic;
+  color: var(--DARK-COLOR);
 }
 
 .section-three .quote-author {
-    font-size: 1.4rem;
-    font-weight: 700;
-    color: var(--DARK-COLOR);
-    margin: 0 75px;
-    text-align: end;
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: var(--DARK-COLOR);
+  margin: 0 75px;
+  text-align: end;
 }
 
 /* SECTION 4 */
 
 .section-four {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .section-four .call-to-action {
-    width: 60%;
-    height: 30px;
-    background-color: var(--BLUE-COLOR);
-    border-radius: 10px;
-    padding: 60px 120px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+  width: 60%;
+  height: 30px;
+  background-color: var(--BLUE-COLOR);
+  border-radius: 10px;
+  padding: 60px 120px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .action-message .action-title {
-    font-size: 24px;
-    font-weight: 700;
-    color: white;
+  font-size: 24px;
+  font-weight: 700;
+  color: white;
 }
 
 .action-message .action-subtitle {
-    font-size: 1.1rem;
-    color: var(--GREY-COLOR);
+  font-size: 1.1rem;
+  color: var(--GREY-COLOR);
 }
 
 .action-button {
-    color: var(--LIGHT-COLOR);
-    background-color: transparent;
-    border: 2px solid var(--LIGHT-COLOR);
+  color: var(--LIGHT-COLOR);
+  background-color: transparent;
+  border: 2px solid var(--LIGHT-COLOR);
 }
 
 /* FOOTER */
 
 footer {
-    height: 100px;
-    background-color: var(--DARK-COLOR);
-    color: var(--GREY-COLOR);
-    font-size: 1.1rem;
-    line-height: 1.6rem;
-    text-align: center;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  height: 100px;
+  background-color: var(--DARK-COLOR);
+  color: var(--GREY-COLOR);
+  font-size: 1.1rem;
+  line-height: 1.6rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
